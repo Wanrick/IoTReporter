@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTDevice", "IoTDevice\IoTDevice.csproj", "{E61CFAE7-A0DF-4C63-A8A5-6CB840EAF550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureIoTAnalyzer", "AzureIoTAnalyzer\AzureIoTAnalyzer.csproj", "{F7BC5B7E-0FB2-42DB-8207-5E22DD0FD79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61CFAE7-A0DF-4C63-A8A5-6CB840EAF550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61CFAE7-A0DF-4C63-A8A5-6CB840EAF550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61CFAE7-A0DF-4C63-A8A5-6CB840EAF550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61CFAE7-A0DF-4C63-A8A5-6CB840EAF550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BC5B7E-0FB2-42DB-8207-5E22DD0FD79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BC5B7E-0FB2-42DB-8207-5E22DD0FD79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BC5B7E-0FB2-42DB-8207-5E22DD0FD79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BC5B7E-0FB2-42DB-8207-5E22DD0FD79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D135B1-927A-436C-BEEC-39E2F49E21F1}
+	EndGlobalSection
+EndGlobal
